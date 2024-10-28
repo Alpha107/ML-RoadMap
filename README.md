@@ -1,132 +1,96 @@
-# Step by step roadmap for machine learning engineer
+# Roadmap for Machine Learning Engineer
 
-Below is the step by step process of how you can start with zero knowledge and learn skills required to become machine learning engineer. Note that this will setup a solid base for you and after this 6 months journey you need to work on many projects and acquire additional knowledge to qualify as a machine learning engineer. 
+This roadmap outlines a comprehensive step-by-step process for individuals starting from zero knowledge to become proficient machine learning engineers. By following this structured learning path over six months, you'll build a solid foundation to pursue projects and further knowledge in machine learning.
 
-![](ml_roadmap_visual.jpg) 
+![Machine Learning Roadmap](ml_roadmap_visual.jpg)
 
-Week 1, 2, 3, 4 
-===============
+## Table of Contents
+1. [Week 1-4: Computer Science Principles](#week-1-4-computer-science-principles)
+2. [Week 5-6: SQL Basics](#week-5-6-sql-basics)
+3. [Week 7-8: Level 2 Coding Tutorials](#week-7-8-level-2-coding-tutorials)
+4. [Week 9-12: Numpy, Pandas, Data Visualization Libraries](#week-9-12-numpy-pandas-data-visualization-libraries)
+5. [Week 13-14: Math and Statistics for Machine Learning](#week-13-14-math-and-statistics-for-machine-learning)
+6. [Week 15-18: Machine Learning](#week-15-18-machine-learning)
+7. [Week 19-22: Deep Learning](#week-19-22-deep-learning)
+8. [Week 23-24: ML Ops](#week-23-24-ml-ops)
+9. [Additional Skills](#additional-skills)
+10. [Useful Tips](#useful-tips)
 
-### Computer Science Principals
+## Week 1-4: Computer Science Principles
+### Computer Science Fundamentals
+Start with the basics of computer science, covering essential concepts like how programs run on computers, binary numbers, and algorithms.
 
-Program or code runs on a computer and uses CPU,RAM, input/output devices. This khan academy course goes over all these basic principals of computer science. Data is stored as bits (1s and 0s) in RAM and disk. The course will also go over fundamentals of binary numbers. **In this course only follow first 4 sections (1) Digital Information (2) The Internet (3) Programming (4) Algorithms** Completing remaining sections is optional and do it if you have time and interest.
-
-https://www.khanacademy.org/computing/ap-computer-science-principles/computers-101
-
-At this stage you are ready to write your first program and explore coding tutorials. The idea is to get basic understanding
-of programming such as variables, data types, file operation etc.
- 
+- [Khan Academy: Computer Science Principles](https://www.khanacademy.org/computing/ap-computer-science-principles/computers-101)
+  
 ### Level 1 Coding Tutorials
-For python, I've build a tutorial playlist for absolute beginners. Watch **first 14** 
-tutorails from this playlist. Remaining you can watch at a later stage.
+Learn Python through beginner-friendly tutorials.
 
-Python playlist: https://www.youtube.com/playlist?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0
-
-Also I've similar playlist in Hindi as well (just in case you are more comfortable with hindi language)
-
-Python hindi tutorials: https://www.youtube.com/playlist?list=PLPbgcxheSpE1DJKfdko58_AIZRIT0TjpO
-
-I've many interesting exercises and their solutions at this place: https://github.com/codebasics/py/tree/master/Basics/Hindi
-(The folder name is hindi but exercise is for both hindi and english tutorials)
+- [Python Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0)
+- [Python Hindi Tutorials](https://www.youtube.com/playlist?list=PLPbgcxheSpE1DJKfdko58_AIZRIT0TjpO)
 
 ### Data Structures & Algorithms
+Understand the fundamental building blocks of programming.
 
-There is not a single programming interview where they don't ask about data structures and algorithms (a.k.a DSA). DSA are
-fundamental building blocks of any program (doesn't matter which programming language). Follow this playlist 
-to get your data structure and algo concepts clear.
+- [Data Structures and Algorithms Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
 
-Data structures and algo playlist: https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12
+## Week 5-6: SQL Basics
+Gain a solid understanding of relational databases and SQL.
 
-Week 5, 6 
-=========
+- [Khan Academy: SQL Basics](https://www.khanacademy.org/computing/computer-programming/sql)
+- [Kudavenkat SQL Playlist](https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB)
 
-### SQL Basics
+## Week 7-8: Level 2 Coding Tutorials
+Deepen your coding knowledge with intermediate tutorials.
 
-Doesn't matter which career track you choose, you need to have good understanding of relational databases 
-and SQL (structured query language). Here are some course links for SQL.
+- [Codebasics Python Tutorials](https://www.youtube.com/playlist?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0)
 
-SQL basics on khan academy: https://www.khanacademy.org/computing/computer-programming/sql
+## Week 9-12: Numpy, Pandas, Data Visualization Libraries
+Learn essential libraries for data manipulation and visualization.
 
-Kudavenkat SQL playlist (watch first 12 videos): https://www.youtube.com/playlist?list=PL08903FB7ACA1C2FB
+- [NumPy Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU)
+- [Pandas Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
+- [Matplotlib Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl)
+- [Kaggle Exploratory Data Analysis](https://www.kaggle.com/code)
 
-For kudavenkat playlist above, if you are interested in going little more deeper into SQL then you can 
-watch tutorials beyond # 12.
+## Week 13-14: Math and Statistics for Machine Learning
+Study the mathematical foundations essential for machine learning.
 
-Week 7, 8 
-=========
-### Level 2 Coding Tutorials
+- [Codebasics Math Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuKaU2nBDwr6zrSOTzNCs0l)
+- [Book: Practical Statistics for Data Scientists](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962)
 
-At this stage, now you know some basic coding, data structures, SQL etc. You can now go through intermediate 
-coding tutorials. Here are some online resources for the same,
+## Week 15-18: Machine Learning
+Explore fundamental machine learning concepts and projects.
 
-Codebasics python tutorials (tutorial # 15 to # 27): https://www.youtube.com/playlist?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0
+- [Codebasics ML Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw)
 
-Week 9, 10, 11, 12: Numpy, Pandas, Data Visualization Libraries  
-================================================================
-* NumPy and Pandas
-	- Codebasics Numpy playlist: https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU
-	- Codebasics pandas playlist (first 9): https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy
+## Week 19-22: Deep Learning
+Dive into advanced topics in deep learning.
 
-* Visualization library
-	- Matplotlib: codebasics matplotlib playlist: https://www.youtube.com/playlist?list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl
-	
-* Kaggle exploratory data analysis
-	- Notebooks: https://www.kaggle.com/code
-	- Datasets: https://www.kaggle.com/datasets
+- [Codebasics Deep Learning Playlist](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 
-Week 13, 14: Math, Statistics For Machine Learning  
-======================================================
-* Math and Statistics for data science
-    - Codebasics playlist: https://www.youtube.com/playlist?list=PLeo1K3hjS3uuKaU2nBDwr6zrSOTzNCs0l
-    - Statistics book: Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python by Peter Bruce, Andrew Bruce
-    
-Week 15, 16, 17, 18: Machine Learning
-=====================================
+## Week 23-24: ML Ops
+Learn about machine learning lifecycle management tools.
 
-* Machine learning
-	- codebasics ml playlist (first 17): https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw
-	- data science regression project: same playlist as above. Tutorial 18 to 25
-	- HINDI codebasics ml playlist (first 14): https://www.youtube.com/playlist?list=PLPbgcxheSpE0aBsefANDYe2X_-tyJbBMr
-	 
-Week 19, 20, 21, 22: Deep Learning
-==================================
+- [MLFlow Official Tutorials](https://www.mlflow.org/docs/latest/tutorials-and-examples/index.html#)
 
-* Deep learning	 (artificial neural network, convolutional neural network, recurrent neural network) 
-  - codebasics deep learning playlist: https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO
-  
-Week 23, 24: ML Ops
-====================
-You need to learn atleast one Machine Learning Life Cycle tool. MLFlow is one such opensource tool. Please practice tutorials on mlflow official website to get a feel of how these tools can automate machine learning life cycle.
-https://www.mlflow.org/docs/latest/tutorials-and-examples/index.html#
+## Additional Skills
+Enhance your skill set with knowledge in:
+- PySpark, Hadoop, Distributed Computing
+- Docker
+- CI/CD Fundamentals (Jenkins)
+- Version Control with Git
+- FastAPI, TensorFlow Serving
+- NoSQL Databases (e.g., MongoDB)
 
-Additional skills that will be helpful
-=======================================
-* Pyspark, Hadoop, Distributed Computing
-* Docker 
-* CI (Continuous Integration) & CD (Continuous Delivery) fundamentals, Jenkins
-* Version control using Git
-* FastApi, Tensorflow serving: To build http servers around the trained models
-* NoSQL databases such as MongoDB
-
-
-
-
-Useful Tips
-===========
-
-### Understanding principals of effective learning
-
-Please watch this video to understand how you can learn effectively so that you can get maximum output by investing minimum amount of time.
-
-https://www.youtube.com/watch?v=yZFrSDjRvjk
+## Useful Tips
+### Understanding Principles of Effective Learning
+- [Effective Learning Video](https://www.youtube.com/watch?v=yZFrSDjRvjk)
 
 ### Group Study
+Join study groups to stay motivated. Connect with peers on [Codebasics Discord Server](https://discord.gg/r42Kbuk).
 
-Group study is always better than studying alone. If you know someone who wants to learn coding as well then make a group and start studying together. Also hold each other accountable and discuss learning milestones with each other. You can join codebasics discord server to find partners for group study.
+### Discipline and Persistence
+Stay committed to your learning journey; and Remember Patience is the Key!
+---
 
-Discord link: https://discord.gg/r42Kbuk  <-- On this you will find a partner finder channel where you can find similar minded people with whom you can do a group study
-
-### Following discipline and not giving up
-
-Learning coding, especially when you are new, can get frustrating at times. Every good programmer has gone through this pain so if you are facing issues, don't start thinking you are not smart and coding is not your thing. You need to have lot of patience. When you come from non coding background, thinking in terms of coding is a big shift in the mind paradigm hence it can take some time before it starts clicking you.
-
+By following this roadmap, you'll be well on your way to becoming a skilled machine learning engineer. Remember to apply what you learn through projects and continuous practice!
